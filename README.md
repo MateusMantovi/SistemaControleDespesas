@@ -1,2 +1,2 @@
 # SistemaControleDespesas
-Sistema básico de controle de sistemas em Jaca
+Sistema básico de controle de sistemas em Java
